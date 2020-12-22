@@ -18,3 +18,5 @@ npm start
 ```
 
 With the default config, sending `/keys alt tab` (one argument per key) on port `5555` should work.
+
+Keystrokes are generated using [node-key-sender](https://github.com/garimpeiro-it/node-key-sender).
